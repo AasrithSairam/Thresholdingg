@@ -76,7 +76,8 @@ plt.title('Adaptive Gaussian Thresholding')
 plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-![Screenshot 2024-10-10 105540](https://github.com/user-attachments/assets/1e9ebc6a-5302-4bb1-abba-bc4c0d762672)
+![image](https://github.com/user-attachments/assets/dd290c93-6f8d-43b4-b71e-508252a0bbc3)
+
 
 
 ### Optimum Global Thesholding using Otsu's Method
@@ -90,7 +91,10 @@ plt.title("Otsu's Thresholding")
 plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/644b1a6d-0958-4aa7-98d3-b1272e649147)
+
+
+![image](https://github.com/user-attachments/assets/8cad018c-b814-4db4-b47d-bb1e7356d487)
+
 
 
 
